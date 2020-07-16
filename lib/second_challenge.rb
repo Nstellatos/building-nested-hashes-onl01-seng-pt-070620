@@ -7,7 +7,7 @@ def second_challenge
       :heroine_friends => [],
       }, 
     :capulet => {
-      :montague => {
+      :montague => {}
       :pariach => {},
       :matriarch => {},
       :hero => {},
