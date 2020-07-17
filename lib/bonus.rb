@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-epic_tradedy[:montague][:patriarch][:status]= "dead"
+epic_tragedy[:montague][:patriarch][:status]= "dead"
 epic_tragedy[:capulet][:patriarch][:status]= "dead"
 
 
